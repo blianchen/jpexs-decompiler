@@ -6,12 +6,15 @@ All notable changes to this project will be documented in this file.
 - [#1240] AS search using multiple threads when parallel speedup is enabled
 - [#1308] Search by all P-code files in AS3
 - [#1333] Exporting sprites as swf files
+- [#1365] Allow to configure all types of configuration settings from command line
+- [#1369] Allow zoom in sprite (and button) export
 
 ### Fixed
 - [#1327] P-code editing: error message and syntax highlighting fixed when instruction name contains upper cased letter
 - [#1343] AS 1/2 direct editation critical bug
 - [#1348] Cannot properly export frame with cyrillic symbols to SVG
 - [#1354] Various FLA export problem fixes
+- [#1367] Raw edit conditional type fix.
 
 ## [10.0.0] - 2016-12-24
 ### Added
